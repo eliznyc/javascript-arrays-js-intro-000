@@ -26,5 +26,5 @@ array.shift();
 }
 
 function removeElementFromBeginningOfArray(arrray) {
-return array.slice(1);
+array.slice(1); return array;
 }
